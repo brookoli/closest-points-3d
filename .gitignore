@@ -1,0 +1,10 @@
+/.vs
+/.vscode
+/CMakeLists.txt
+/Debug
+/include
+/out
+/test-huawei.sln
+/test-huawei.vcxproj
+/test-huawei.vcxproj.filters
+/test-huawei.vcxproj.user
